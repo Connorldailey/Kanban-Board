@@ -52,9 +52,13 @@ To install the application locally, follow the steps below.
 
 ## Usage 
 
+To use the application, visit the [live site](https://kanban-board-1gdi.onrender.com/).
+
 - Login to the application.
 - Use the Kanban board to create, update, and delete tasks.
 - Log out to securely end the session.
+
+![Kanban](./client/src/assets/images/kanbanScreenshot.png)
 
 ## Credits 
 
